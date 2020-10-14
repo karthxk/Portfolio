@@ -64,3 +64,9 @@ section {
   margin-bottom: 25px;
 }
 
+section h3 {
+  text-align: center;
+  line-height: 1;
+  padding-bottom: 5px;
+  border-bottom: 1px solid rgb(250, 250, 250);
+}
